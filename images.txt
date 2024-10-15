@@ -1,1 +1,3 @@
-mysql:5.7
+hanchuanchuan/goinception
+redis:5
+hhyo/archery:v1.11.3
