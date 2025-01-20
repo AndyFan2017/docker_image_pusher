@@ -1,1 +1,1 @@
-zemal/watchvuln:latest
+prom/prometheus:3.1.0
