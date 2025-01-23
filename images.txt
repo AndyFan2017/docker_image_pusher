@@ -1,2 +1,1 @@
-prom/node-exporter
 quay.io/prometheuscommunity/postgres-exporter
