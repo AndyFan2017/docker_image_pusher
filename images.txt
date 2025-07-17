@@ -1,1 +1,1 @@
-nvidia/12.8.1-base-ubuntu24.04
+hub.docker.com/r/hhyo/archery::v1.12.0
