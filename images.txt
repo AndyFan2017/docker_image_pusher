@@ -1,2 +1,1 @@
-sonarqube:community
-postgres:16
+jenkins/jenkins:lts
