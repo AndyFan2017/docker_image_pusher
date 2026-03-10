@@ -1,1 +1,1 @@
-jenkins/jenkins:lts
+vllm/vllm-openai:2.0.0
