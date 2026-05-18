@@ -4,11 +4,4 @@ airbyte/connector-sidecar:2.1.0
 airbyte/container-orchestrator:2.1.0
 airbyte/cron:2.1.0
 airbyte/manifest-server:7.10.0
-airbyte/server:2.1.0
-airbyte/utils:2.1.0
-airbyte/worker:2.1.0
-airbyte/workload-api-server:2.1.0
-airbyte/workload-init-container:2.1.0
-airbyte/workload-launcher:2.1.0
-temporalio/auto-setup:1.27.2
 
