@@ -1,4 +1,2 @@
 airbyte/async-profiler:2.1.0
-airbyte/container-orchestrator:2.1.0
-
 
