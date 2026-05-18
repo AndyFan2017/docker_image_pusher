@@ -1,3 +1,4 @@
-airbyte/bootloader:2.1.0
-airbyte/connector-sidecar:2.1.0
+airbyte/async-profiler:2.1.0
+airbyte/container-orchestrator:2.1.0
+
 
