@@ -1,3 +1,2 @@
-airbyte/airbyte	2.0.7
 airbyte/bootloader:2.1.0
 airbyte/db:1.7.0-17
