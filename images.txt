@@ -1,2 +1,2 @@
-airbyte/async-profiler:2.1.0
+mirror.gcr.io/aquasec/trivy-operator:0.34.0
 
