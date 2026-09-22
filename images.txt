@@ -1,2 +1,2 @@
-mirror.gcr.io/aquasec/trivy-operator:0.34.0
+mrzhxl/goinception:v1.3.0-98-mysql84fix
 
